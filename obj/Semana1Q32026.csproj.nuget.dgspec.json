@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javier\\Semana1Q32026\\Semana1Q32026.csproj": {}
+    "C:\\Users\\javier\\Documents\\GitHub\\Semana1Q32026\\Semana1Q32026.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javier\\Semana1Q32026\\Semana1Q32026.csproj": {
+    "C:\\Users\\javier\\Documents\\GitHub\\Semana1Q32026\\Semana1Q32026.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javier\\Semana1Q32026\\Semana1Q32026.csproj",
+        "projectUniqueName": "C:\\Users\\javier\\Documents\\GitHub\\Semana1Q32026\\Semana1Q32026.csproj",
         "projectName": "Semana1Q32026",
-        "projectPath": "C:\\Users\\javier\\Semana1Q32026\\Semana1Q32026.csproj",
+        "projectPath": "C:\\Users\\javier\\Documents\\GitHub\\Semana1Q32026\\Semana1Q32026.csproj",
         "packagesPath": "C:\\Users\\javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javier\\Semana1Q32026\\obj\\",
+        "outputPath": "C:\\Users\\javier\\Documents\\GitHub\\Semana1Q32026\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

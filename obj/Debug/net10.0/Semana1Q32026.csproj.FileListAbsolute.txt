@@ -1,0 +1,15 @@
+C:\Users\javier\Documents\GitHub\Semana1Q32026\bin\Debug\net10.0\Semana1Q32026.exe
+C:\Users\javier\Documents\GitHub\Semana1Q32026\bin\Debug\net10.0\Semana1Q32026.deps.json
+C:\Users\javier\Documents\GitHub\Semana1Q32026\bin\Debug\net10.0\Semana1Q32026.runtimeconfig.json
+C:\Users\javier\Documents\GitHub\Semana1Q32026\bin\Debug\net10.0\Semana1Q32026.dll
+C:\Users\javier\Documents\GitHub\Semana1Q32026\bin\Debug\net10.0\Semana1Q32026.pdb
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.AssemblyInfoInputs.cache
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.AssemblyInfo.cs
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.csproj.CoreCompileInputs.cache
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.sourcelink.json
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.dll
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\refint\Semana1Q32026.dll
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.pdb
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\Semana1Q32026.genruntimeconfig.cache
+C:\Users\javier\Documents\GitHub\Semana1Q32026\obj\Debug\net10.0\ref\Semana1Q32026.dll
