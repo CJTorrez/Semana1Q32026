@@ -13,8 +13,11 @@ try
     Console.WriteLine("La diision es: " + division);
     Console.WriteLine($"La fivision es: {division}"); //interrpellacion
 }
-catch (Exception ex)
+catch (FormatException fe){
+
+Console.WriteLine($"Error de tipo de formato: {fe.Message}");
+}
+catch(Exception ex)
 {
     Console.WriteLine(ex.Message);
-    throw;
 }
